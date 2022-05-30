@@ -40,7 +40,7 @@
   flex-grow: 1;
 }
 
-.add-item__wrapper {
+.add-item-wrapper {
   display: flex;
 }
 
@@ -155,7 +155,7 @@
 }
 
 /* Completed */
-.tasks-list__comleted .tasks-list__label {
+.section__tasks-list_complete .tasks-list__label {
   text-decoration: line-through;
   color: #888;
 }
